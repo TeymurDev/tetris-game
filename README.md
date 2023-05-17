@@ -4,4 +4,4 @@
 2. npm run start
 3. game will be available on localhost:8080
 
-#Have a nice game 😄
+**Have a nice game 😄**
